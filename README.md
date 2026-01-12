@@ -1,4 +1,4 @@
-# Clon 2048
+# Clon 2048: el joc de combinar fitxes
 
 **Inserció de prova**
 
