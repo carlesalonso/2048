@@ -1,4 +1,4 @@
-# Clon 2048: el joc de combinar fitxes
+# Clon 2048: El millor joc pel teu navegador
 
 **Inserció de prova**
 
