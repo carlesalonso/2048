@@ -1,4 +1,4 @@
-# Clon 2048: El millor joc pel teu navegador
+# Clon 2048: El millor joc pel teu navegador per la teva diversio
 
 **Inserció de prova**
 
